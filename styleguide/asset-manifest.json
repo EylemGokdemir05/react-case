@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/build/bundle.8e9dd8ec.js",
+    "shirt.png": "/f21de99449dfefe2535d.png",
+    "mug.png": "/e38e1442373f46e885aa.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "build/bundle.8e9dd8ec.js"
+  ]
+}
